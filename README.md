@@ -1,2 +1,2 @@
 # student-practice2025
-hello
+hello friends!
